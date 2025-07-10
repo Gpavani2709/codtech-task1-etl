@@ -75,3 +75,7 @@ Git & GitHub
 
 🚀 Outcome:
 This task demonstrates the ability to build a scalable and reusable data pipeline for preprocessing real-world datasets. The resulting data is now ready for further use in analytics, reporting, or modeling pipelines. It shows proficiency in using modern Python libraries for efficient data manipulation and transformation.
+
+Final Output : 
+
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/1fd06026-8cbf-4da3-a704-6319400f78e0" />
